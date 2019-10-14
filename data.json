@@ -1,0 +1,40 @@
+{
+  "info": {
+    "goal_card": {
+      "address": 32156,
+      "type": "<u2"
+    },
+    "lives": {
+      "address": 1846,
+      "type": ">i1"
+    },
+    "score": {
+      "address": 1813,
+      "type": ">u3"
+    },
+    "screen_num": {
+      "address": 117,
+      "type": ">u1"
+    },
+    "time_0xx": {
+      "address": 1518,
+      "type": ">i1"
+    },
+    "time_x0x": {
+      "address": 1519,
+      "type": ">i1"
+    },
+    "time_xx0": {
+      "address": 1520,
+      "type": ">i1"
+    },
+    "x_pos": {
+      "address": 144,
+      "type": ">u1"
+    },
+    "y_pos": {
+      "address": 162,
+      "type": ">u1"
+    }
+  }
+}
